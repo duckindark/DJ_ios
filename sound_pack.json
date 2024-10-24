@@ -1,0 +1,42 @@
+[
+  {
+    "ID": 1,
+    "Cate": 1,
+    "Name": "Hip hop set 1",
+    "K1": {
+      "name": "drum",
+      "sound": {
+        "loop": true,
+        "link": "https://drive.google.com/uc?export=download&id=1656Ykq0ek1bFgDgt6fvgWo3_b99mK1tB",
+        "delay": 500
+      },
+      "K2": {
+      "name": "drum",
+      "sound": {
+        "loop": false,
+        "link": "https://drive.google.com/uc?export=download&id=1TBsUXGFkpuLjZUL-TS-Egxzux8R-skD5",
+        "delay": 500
+      }
+    }
+  }},
+  {
+    "ID": 2,
+    "Cate": 2,
+    "Name": "EDM set 1",
+    "K1": {
+      "name": "sound 1",
+      "sound": {
+        "loop": true,
+        "link": "https://drive.google.com/uc?export=download&id=17Hzprj0jHakVJMBy5fphCsmlc7IbHlde",
+        "delay": 500
+      },
+      "K2": {
+      "name": "sound 2",
+      "sound": {
+        "loop": false,
+        "link": "https://drive.google.com/uc?export=download&id=1vjDNWWwFgXo_AepPRnZKmGnSISPtUaMd",
+        "delay": 500
+      }
+    }
+  }}
+]
