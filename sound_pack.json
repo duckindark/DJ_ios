@@ -3,40 +3,1661 @@
     "ID": 1,
     "Cate": 1,
     "Name": "Hip hop set 1",
-    "K1": {
-      "name": "drum",
-      "sound": {
-        "loop": true,
-        "link": "https://drive.google.com/uc?export=download&id=1656Ykq0ek1bFgDgt6fvgWo3_b99mK1tB",
-        "delay": 500
+    "sounds": [
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1ZHGdmT0bYPS_HAWIU7JAORKdx_5PSWbm",
+        "loop": "TRUE",
+        "delay": "0"
       },
-      "K2": {
-      "name": "drum",
-      "sound": {
-        "loop": false,
-        "link": "https://drive.google.com/uc?export=download&id=1TBsUXGFkpuLjZUL-TS-Egxzux8R-skD5",
-        "delay": 500
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1cs0rzwV_dGlmoSwW0rAM0Giq5NPISaTS",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1jTU3gmplS8NlVuS-Z0tzQKkDd_MOmFNJ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Efffect",
+        "link": "https://drive.google.com/uc?export=download&id=1YtqOiwnjxoIbp7BZ2Upn9J6NQuXLRWrT",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1ambwMJmZ5znGyuwaw4AMylRFXbaKwSK9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1buxNuOHgyYo7wyJprlV7V3mW1s4WsWQY",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1fO8AqEZZrg3LeUMsz-ylTj5E2VBa8rAZ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1DhPOngsI-yAZqn8rGFhlYvgi5vE-8tY5",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1iuUL2fsPu2dwsI1cULSOBmn2KS51Lo3U",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1Tb2iWeiAptupzf4sQ7BUZ-wsEWpJoAiA",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1qYkrDABMMzh_DaTgGxkBhks02YmP2WjS",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1h3Tqa6e0pPg_cYSMNd3HV-9UutXesxT3",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "E-Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=1m_76rjbMUpY9ji0TSR0l1u78lHm2EJLr",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "E-Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=1cGnYITmL9M3-zei5QHarMUM8V2-Lcnhp",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "E-Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=1MujPGUeyg5itlOhdWAFPhNZVBKwbc35E",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "E-Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=12kdJ5UMiCdB3endvKqIDrohA1HqJJN6X",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synthesizer",
+        "link": "https://drive.google.com/uc?export=download&id=1KLGJ7Oi16R7i5d6jjPLTBCWrEC4Dk0G3",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synthesizer",
+        "link": "https://drive.google.com/uc?export=download&id=1W9dz3EVFwImU4n_8hFxNJ21O_ekZFa0x",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synthesizer",
+        "link": "https://drive.google.com/uc?export=download&id=1jlRspbjgcl01_Fvf8zeBhKwgD99Nz5K4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synthesizer",
+        "link": "https://drive.google.com/uc?export=download&id=1t0mgO8l6WHr0LIYm90GDis3_Nsn1u3Fs",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Roll Up",
+        "link": "https://drive.google.com/uc?export=download&id=1COoVctYpFvlKHfGZb7cA8z0VlLiev40l",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Noise FX",
+        "link": "https://drive.google.com/uc?export=download&id=1A1kLyRqrbXcecuUoqZ5SveVojdW5OsCU",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1osCy4-i0p5OlV7M4V6PzAoDLhMc0Ztn8",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1MdU9nH0x-AOqiOPM5eQjxno5u5H57wNB",
+        "loop": "FALSE",
+        "delay": "0"
       }
-    }
-  }},
+    ]
+  },
   {
     "ID": 2,
-    "Cate": 2,
-    "Name": "EDM set 1",
-    "K1": {
-      "name": "sound 1",
-      "sound": {
-        "loop": true,
-        "link": "https://drive.google.com/uc?export=download&id=17Hzprj0jHakVJMBy5fphCsmlc7IbHlde",
-        "delay": 500
+    "Cate": 1,
+    "Name": "House set 3",
+    "sounds": [
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=13h5O7zcKYcHpMcFrLfpo10jxpnCbKtm4",
+        "loop": "TRUE",
+        "delay": "0"
       },
-      "K2": {
-      "name": "sound 2",
-      "sound": {
-        "loop": false,
-        "link": "https://drive.google.com/uc?export=download&id=1vjDNWWwFgXo_AepPRnZKmGnSISPtUaMd",
-        "delay": 500
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1UySTI_dXUUggyJfd1cpeutDFFuyHduPK",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1vOGIvF0mFh_uL1X0wJ_jMkZb3MI0lDxR",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1pxaSHEHhniOJflouZrB8cceqfQkSM3xj",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=1wSZ41lZp_veEEm_jNk_2kcuwC3ZvUuL4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=17RzRV-knzJpW5MKWJHItFrmdX4YvHctg",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=14WAwhhNoOeJKEoAcCVpK4fZCH9itFH2x",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=1k9f3JmQRZEk7EHxDnJvVdyisCUlDQPgk",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1S5cpX0yKUKyq8GNui2M7WYLZVJu41e4p",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1wTGBxDN6hdPa-uaipcbt689Kn8tBneey",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1fde5ciIauPptngwhLlZHSHwPm-7GSAMW",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1dcOiBmSEeYzEd_BQpAU4jAUVbwOXp5Rj",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1YGNghxcjyHpvI1Vn5aK5zXbDEM-g-7Bb",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1H2E4Qc8y51o-0mSEMAUbwwIXnWm1cztI",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1PHWCO8-zjo-YZ8UaKCXA6woqpYJspv_f",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1N2zfof6NAesI0qD2srbt1sCy2ANKc2_j",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1zf7MNeghqA6sNZYZ0l12cm7MNvptqOGD",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1O-SJQCXfUljS2ggXfjl4bPzX89vxh4vk",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1hscpddgrN3R2aZ8bB_DI1mk8TxMFDAZB",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1v-SUIc2itDExQOgN_OA50nJegmFkfScl",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1CseLlDOzLFaGYz2Zpb5io40-P6uiIW9a",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1xcYhDrELwASmlLulJ9qPo0dSIkB_qOr6",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1FZ4uuH9ySbkNARknvzkZZD8q5oT_K26O",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1D6xMrqfvgCSpgMFLg9qpYTH61KGuFUni",
+        "loop": "TRUE",
+        "delay": "0"
       }
-    }
-  }}
+    ]
+  },
+  {
+    "ID": 3,
+    "Cate": 1,
+    "Name": "House set 4",
+    "sounds": [
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1YQjETzr-YGLkToTg0yi-q8_ne_Tg4-1f",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1PYMINQlkLY3fUar_s1pB4Tbxye8ECWxE",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1ZeCaIae_zZOAl0o8yk6rnts4m21aDSv8",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wobble",
+        "link": "https://drive.google.com/uc?export=download&id=1QpuD6ehWYLLuW0Gu98r2XGz7CEGZIJoD",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=147lJkDoeXKBAmOJLsbZCVfdA7OjJVA8S",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=1DX2TMHXZZHsWKn_a1UjoK-KEV-Z__oNd",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=1A4kTNGDj5g9eA39BP_GR77X6LgVFG339",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Background",
+        "link": "https://drive.google.com/uc?export=download&id=1SK1UBRocUCBY-7cufUELxugXdHP9Zh_l",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1_pbyXQsGIcFMmJd1Qzls2Jelf_pHpfrA",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1ul9SkQEm1_XLuLLXbaawxvdNwAe2O3_9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1AC_qdAHc_LISmPHydIk0v6VpqhyTIK3v",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1drR2Y0Bw8unaC8tPt-RSIe9ldgKo-lHo",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1T4c7SJzhEDur3PHBbVQ5fqHaHzqkxqJA",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1NcDfHxG5Wi5ck2IY237J2IYci5N0mXud",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1ed_OqLcjI17XcT__riZ1kLFmlXCMy_y4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Keypad",
+        "link": "https://drive.google.com/uc?export=download&id=1qLm3zh-maoVwmn4HYGuHu_zVah73G9mr",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=14m4IXTZIy7dYRA_ZyMKyy3Hzo8NhaA2w",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=13O58_ogB5p-I5eWFM5s5jf5U0m-VSyFd",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1jlFJeBsB5P8tbRptlsQLYHbr3Ocx15YQ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Wah Fx",
+        "link": "https://drive.google.com/uc?export=download&id=1y9as0VHgY0lEXWZAm3V_OVzwyoDXGsK0",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1E5CKfuz7a9IrcLPkEUJjz2pZF9w0IQBU",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1aXB6L2p-Pq3ZQET578CKkmef2H7YXQu-",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1Vv27ZvOM_p3KIL4kT52QGUDcZGXFaQ-_",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=11tJGYavaTzHLD4bZQCQnPzVTiHIsDGwS",
+        "loop": "FALSE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 4,
+    "Cate": 2,
+    "Name": "Hip Hop set 1",
+    "sounds": [
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1QBwTsdLd3a7aEPOeQdkSSYhfBnUS-u6N",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=19Bfp1dl3YEwXJxrQiuIGnxsNrVgHdHDP",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=18avOYSFXIE6dS9-vhATN9FpbZB6AW4Jh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=17x5PWsW1K_vkODEe1vEbDbwj0cfA3cRE",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1U-kIfz7h_qQd9Ibx0dhvpMi2SVPOt9e-",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=11P-dFGyiayKaEkMtySQiMGpl_KrBIQNV",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=16rMTT5hmyQeYzPXsH3m5D38hVgcU2dff",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1uKwTB0Ll5NrILmMcU9tBsw0LSQX4aPMO",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1kcPi_HoMZVa7lzwNn4vLciYuVwjEe1sv",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1FqdVLA-cfNixsw2SM6TIRRhzhVV-4FcS",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1GQaCBQOJ2rClBvdLKKAADfiG9YZwDifg",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1azKa3kDfol4KhxvR7URDvS58ASl3qEOo",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key pad",
+        "link": "https://drive.google.com/uc?export=download&id=1048jljYXgZeBwa18GvP0bLkS3wLsZ9Mh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key pad",
+        "link": "https://drive.google.com/uc?export=download&id=1stlx_IaI-Cb_uyIRujFlI-8uyTUb0I9g",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synth",
+        "link": "https://drive.google.com/uc?export=download&id=1u8FhFUQXRxHep6TPNHUx57VyL77Ko2aU",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1cnpZ1k5JySp2HlbVyFGdFFZD9qZLKkve",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1cb7lbDk93rIBqVVX6L3HGvxKDkrjtQX6",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1tBiq-1iaUe169xDcyrNKyOab8_twKUTe",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=13Ohs9i7r0ExsA5YkCDVZA9K-NkQ70i-k",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1cot9dztcvsNJ03-TEBYdwCZ33Qw3qwqh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synth",
+        "link": "https://drive.google.com/uc?export=download&id=1brpfPeOpL-J9Ks3IfYwsVYcSONMvkzK3",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Synth",
+        "link": "https://drive.google.com/uc?export=download&id=15q7mGVq8updHcI-o79nhe6b7NqI7UYSh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "String",
+        "link": "https://drive.google.com/uc?export=download&id=1RsEa1IFO0AvmNYCW09ge8lPPJ0GiQ2N7",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Steel Drum",
+        "link": "https://drive.google.com/uc?export=download&id=1NpZFGogNyYJ7DTdc50m4Gy2jKU8UyEjN",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 5,
+    "Cate": 2,
+    "Name": "Hip Hop set 2",
+    "sounds": [
+      {
+        "name": "Apeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1tUFZTVriQqMURJhFXx7wOyUz2xoT0lbH",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Apeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1qj52h-zw5MdwkIreDoPvH0Jln1GL39TN",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Apeggio",
+        "link": "https://drive.google.com/uc?export=download&id=10LDXUWOG3m9mbYxGY6Lx0TRhrqwG7rYj",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "String",
+        "link": "https://drive.google.com/uc?export=download&id=1lRLDK7h9gNfHCLFxzpi78r02_eo-6EDA",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1MzLhXvVzWU4r8ZdKBrreC7mBhOcmrR0P",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1DUyWih42wMhIh7ZjJbDMQEmsTT_IovJ9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1kBhv8t2YrVTmux7w7De39MwM6OlKXRaV",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1NXhuQ5LXmu_VClmnw3CNMyP6Zbsuyuja",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1kfM72BHHkZq44O8zcptLYHrQTThghQWZ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1iKUnFFXJOLwsP0ORiCZxq8cC6r2b5l6K",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1eU8qjC5Vepm0iF5XYdDop_xjzCd-xpu9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1mFf1jrUYWBB4mqFnX0Fc0dO2aIdNk3fI",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1EY3Qrq9VtIZW9CxTrj8k9J9O63Jmsp-a",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1sNQOnH0CnevRtJOoI1lwx5QXeGC1n5Yw",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1xYpYo157ViotE-9v-izdLfNP6xPo-xle",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1eiy__j2nkx0gvfUEJ4OoPcJiSkmjuVbh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1uA2OXJrZoybmpjwcX0Y8U5swM1l_aWN4",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "String",
+        "link": "https://drive.google.com/uc?export=download&id=1fbInIaZ1z8camGXblZSojobp-1wgzleU",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1luRCNbDk-_rvnYu-KSzVBG0tt25WsPet",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1LYJ-9RLQlnzUo5-Avq6bORq5PqTqsRJe",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1jDSux3OALDANaar6cLlrvpQ_AFFERT_4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1ujWX6FtCNuecxCcvv_OJBJProvOPLd8Y",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1NRfPsUKjVP4atYmDdZE7C46W7Im2O7hf",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1Lzou6DnvD4GKcD3r7Vtpy46fI325PMPb",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 6,
+    "Cate": 2,
+    "Name": "Hip Hop set 3",
+    "sounds": [
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1i183IyA9P8Rc7q87oGUGw5-VDeqdEh_I",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1Kbz_pwDsq259k3cykdbUd2SUecIMs1xu",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1B4voDeAGb_ZCv6LkK881R6JaZ6OXLxnE",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1Rbj_uQ7TAD_i2rj7nNl29ZSlbleBnG1O",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Scratch",
+        "link": "https://drive.google.com/uc?export=download&id=1sB3iJiqp8NsMBtyJ4RhReEBfREQjS7Yq",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1hbpBxA9yd_AJj19CDSUnQSVr_Y7aylUv",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1Ozx6mfeWtWE7iMwkUsGD7Vz0S9Z39cup",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Siren",
+        "link": "https://drive.google.com/uc?export=download&id=1s30Uro5V6dKF3N_ALJt3HqMB6jGOXThc",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1dSIp83vwJS4fVge8iJSNi0F2aZIuqbQF",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1VYNqCOBNenRHzc2v7YD8U7ZfIfKYpXFV",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1Rl2wzJWFEoPdtbSnRfOPyEcQTNb4fVJn",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=13yuoJF2yjXmop6zNuaFy3QBf3w414xdZ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1GubCUKR0KPA_d-yDLnOIBg4RyPMkZucw",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1WfjAEoNwhqhXfwAFNj3-qFihiFWOZqK5",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1VXZKGr0nMs259_Vvc0APKAEH_3pjBdK2",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1ceQ-C2-vdf6LWHHRXs_ur_JyZVr3zVW7",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key",
+        "link": "https://drive.google.com/uc?export=download&id=1Y6aq2yiqgyF9ojWJwAvkSra6iUu_dI1m",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key",
+        "link": "https://drive.google.com/uc?export=download&id=1SrR7eWFglrlyKwr3N0GQcuAYpFgEIZ6X",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key",
+        "link": "https://drive.google.com/uc?export=download&id=1m2nremaiEch4GYiB_VG4TsEBUXdiYguC",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Key",
+        "link": "https://drive.google.com/uc?export=download&id=1Q2_vibNkJufTU_7iZ5AK9JKWRXlTmByG",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1tiB6LesMnMKQebpDPjqkeuZ5FNn266EJ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1eJvK9A4vK-Op6W9r2C0ntc0Cvaqhu1kI",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1_E4tSN1s5EcTEHbLYP54rLeCmqzrKyv_",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1w6tg904w9q7upoL6dgWfKuZMO6J0PjaB",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 7,
+    "Cate": 2,
+    "Name": "Hip Hop set 4",
+    "sounds": [
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1zqUVQ3CzVIymq4iiatAiKnbfvifYlKTU",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1aObcFr7Ah76RA5z8l5PxfbAmeZkPizL8",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1QKte5D5nFLDbo7KHMUHPTNvQYck9-c3v",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1E4eGazCRW6AEuJVJf96zg7hp-LaA_-a1",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1Yk7D6trUPgkaCMys9y_zxbhr1ZteSERR",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1XWKdyzve2Cj-bAsS1bw2pV2AYqDznKYY",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1dyelE2CBCush8XuHixAKBqfd-Z3cnk47",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1LZIHeeL8f887jGHuRin34ckj3Uo575hU",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Violin",
+        "link": "https://drive.google.com/uc?export=download&id=1hUvws38aK1lDpUDedOCfmHQ57pvl5q_l",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Violin",
+        "link": "https://drive.google.com/uc?export=download&id=1ekVUKtx2fKniTGLMMMDBs1dFBk4tDqgG",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Violin",
+        "link": "https://drive.google.com/uc?export=download&id=1ysMYn_9fBQd-h4fP-50FDxgh7TZueIjR",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Violin",
+        "link": "https://drive.google.com/uc?export=download&id=1I-hHkjeClpoZH9aDm9JkQcMhjU-zXLP5",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1mbrPkpwmE4dAcbXpp8GNMWZpVktxvzHD",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=10vpmBFuZf1uq0JCAZVi2xsiOgeGB4f4S",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1eH8cyb3G2Bmg-g-r2CCqT4cSNNRlmn2P",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1NG9KloZktVAWADG-b9PWwNyIq_VWujLS",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1X_RS8f7i1hjHi8sObuFTh5WMPvKiw0JG",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1wlOjIvpt40XIvpYp57fkx29m29SomXv7",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1Boijx2hTRV0-PHYIIxmybpGrLbkc3sLH",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Siren",
+        "link": "https://drive.google.com/uc?export=download&id=1oF5bZQFib9lcuuhwglAq7ZKrl-leGKDx",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1g0evdMT2kI3-tN0aLMsRUxWiU9oAL7LN",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1uTvWfpvIFdEOr8U7AJPoJbA9lsfaVn9I",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1DtLdvgfxiEHEZJLMrPmDZM4ReBAfCY2C",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Lead",
+        "link": "https://drive.google.com/uc?export=download&id=1FEFy3FvDvUnn5qIbXvu9b37tFpQtn0Rz",
+        "loop": "FALSE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 8,
+    "Cate": 3,
+    "Name": "Raggea set 1",
+    "sounds": [
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1vhsofwTXfwTJdY9nPzv-pkAXY_-PcdGO",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1wMj0EYDxCrzBIJCcuL9qbls50YRKOBr9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1WnwDnkWWXnf9scvFoZXWJkv-IEFl2Qyb",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1dj7bUg10PkHDRgp1AXO3PDJpIuXkfyPz",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1tfOeKSw_vzAZpOf2BCXA41iKpVPJxvCy",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1Oh-Sk51TbepVZ07ZNLfRfuHjBRZ_JD7r",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1chV6xPxAzh9eXGWkzV9oppatFP9GVqn8",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1YQpfFKpAwblNl3MF0-4ZML1789OZaJRN",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1wBpUSEJGWaEgWpxSHArv1hhqHfQOjnY1",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=11y91hQMId5iiNrMEtgW3fGrOOFvEyB2y",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1XxQqtDb0V_puL0U2qBSww5vHRNbGNFLw",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arpeggio",
+        "link": "https://drive.google.com/uc?export=download&id=1MR3gZyueIeWTIpTLcwF986F7cOstyC4N",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Organ",
+        "link": "https://drive.google.com/uc?export=download&id=1-b66vxtk7Q12WK5BnWmS1UUkgXEJR9xg",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Organ",
+        "link": "https://drive.google.com/uc?export=download&id=12mGVj34FMg8ctb8CofExLoX5AmcY2gft",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Guitar",
+        "link": "https://drive.google.com/uc?export=download&id=1zqXaJH_S57fvyYRYT5Xe64Jea1EjaHGt",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Guitar",
+        "link": "https://drive.google.com/uc?export=download&id=1z-XkvW5AhSMixLYx6nw1cHuQem1aypTb",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1dH1SFrmQeu6stb68ZFrzKBFjqpVW_tQF",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1lpDn7i5ucnZrO5NL4vVSeKg0VFF28tNH",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1SxyxQv8RaWm6VeWUSTdVFq02kIIb_i5f",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1kDp3icTqJzNtR-yPNcsAkGpi-JT7tTIa",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percussion",
+        "link": "https://drive.google.com/uc?export=download&id=1wS7SGnNxCuDOBjWV2Hxu80YYb6KiQt8m",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percussion",
+        "link": "https://drive.google.com/uc?export=download&id=1mFIFnKOgQD8zmtp8zc8RyINVxeIzPK16",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percussion",
+        "link": "https://drive.google.com/uc?export=download&id=1sY0pKWwhKg3HAipYf51ZCE4TJFKCSpES",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percussion",
+        "link": "https://drive.google.com/uc?export=download&id=1LnzqekwhaejxO4VdEUeY8pEL2m8tLVae",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 9,
+    "Cate": 3,
+    "Name": "Raggea set 2",
+    "sounds": [
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1E-0t_tkzbEZUtxCL8e1Da29a2I8Vj8N0",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1gAKC73fo_WgF-m9VdYWxLaMpgXHEXryX",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1WrHnW9vbAfoIh50zZCnfimb5VraTcWwy",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Brass",
+        "link": "https://drive.google.com/uc?export=download&id=1ue-ZVYowQnQgL7xCb8K09fRmCExDZFEg",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1GYy9jAWDhGf85SsY6i06Nb7Rn8_C-Mm0",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1Ck-3eUnx0QuRrM0xUxrZp5PnL_aYFmYm",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1g-YeK9i3cLO062feG1I3Bdw-HVOUFhgl",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1Qd-gc_68_Qns0XIq8Unq40A489nO-eJu",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=17JVaiZJ4OihxwnK_OWS8rNLdWdfNkfkK",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1VBpnKyE5x0UoXdTMXOmmaCuskxkOzJw9",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=15ypKWDqFZzAz1MVGQTbcExQPTiDG9vp2",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1trSD2Xh8V_1TF_8yM3ssyI8u1xVKFP-v",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1bdq62TJPdaLSBV7eW407M_Cv54jv36Ar",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1V1G2qP-iHCiKkDN7Hzo0YU6K47pufBNK",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1xltj4x1Yp6hUgW4hCSRpWMtiV1h6U4BO",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1BUxecvbnKbALKO4iYV5CReZ7VULO7c-0",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1r08tEaWNlEdM6pVrR1UfAraJUEz3_Zf2",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1uNMknytjnF84Zg_YgaPS9Vmf3eC2mDYY",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1UIk6xQxKatytgZSBi7MDUWc13IzQmNRc",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Effect",
+        "link": "https://drive.google.com/uc?export=download&id=1bdPxge0KtlgISTeRhs95ziUzDXEEV7Hn",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1lBms9808vJTvYAT-ehMbVSsDk3K4mQZt",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1GgFWkONugZxLRircF9Fl6K3qDXU0ktgD",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1ymuhJ-RECUzrwTAMdfFX6AzAaelGxUyH",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1Gqce7um_hU7MjynkcfrTkQPofbIia_WX",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 10,
+    "Cate": 3,
+    "Name": "Raggea set 3",
+    "sounds": [
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1H2ZMHNTljfhxcMjQIXkwAGeskAm8A5HM",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1RbH-aSjwdoQNn_H-TG0mTPZq5O3B7iPQ",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1ZHiQXbKQKWfZFkmNy-5IqpwWO3uvBmT_",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1iU0usIZENAT0znT8kOV71Y9vZ8xVwv_1",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=19TAUZqnA_FmxvBIWazcxXp8b6v87_bsn",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Marimba",
+        "link": "https://drive.google.com/uc?export=download&id=1PUNfazBxFCSwMLuxqP2LEUb-O7YOf8rv",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=1_dZMhYmOrl4FpSl323w9Eop1bySUmtH4",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1v-i4gJ2_kRiCs-VQo_bBaAgtyG5M2zDU",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "String",
+        "link": "https://drive.google.com/uc?export=download&id=1EHMizL-Efq4dqbVlB7W_k6NQvkotyiBh",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percusion",
+        "link": "https://drive.google.com/uc?export=download&id=1VveXAEetfXf5IjrnSApkbZC-S61DmLOK",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percusion",
+        "link": "https://drive.google.com/uc?export=download&id=1snX31YzNYH4uW1RFP9ES4FJrSyiXP48i",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1fd3FruMljEdGkqMdx12VmcbUoHaWZgt2",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1c5VnKgwWFvxwykvIKYrJO0G_onf4BWw4",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=17OKLJZNEpKyObT1kWEigoVGce0l2LtXl",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "String",
+        "link": "https://drive.google.com/uc?export=download&id=1zp7rJtc-hGzeLnYaeiyWj_zZ9cRHZK9s",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Trumpet",
+        "link": "https://drive.google.com/uc?export=download&id=1V_dRvmEdgSM9iTwYFBNHZ50ihPfi79-t",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1_Tna2Z7sYyD5ypYz29DrPcJTGGTiS47F",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1hN72s_Q4bhh3EyqRNfLNRXVN53D_DO3l",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1bpnmadNYlrBB9D1jcMJ5hyz9rCwdovaj",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1xKpEx-Ofa_FXiTy4pvqop730cb1lw-6a",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Ambient",
+        "link": "https://drive.google.com/uc?export=download&id=12cP6Bhzcdhrs3im3IrL4UD0FlcA4LC_-",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Pluck",
+        "link": "https://drive.google.com/uc?export=download&id=1dM9hP8yhcdGDxQ2Es7xkjmyfC4UgtZJ6",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Vox",
+        "link": "https://drive.google.com/uc?export=download&id=1Fb2dEtbxoCymqD3t8JBWDOdUWx6H-YEb",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Vox",
+        "link": "https://drive.google.com/uc?export=download&id=1s5jtGP-O9VZHNaCUa4nencU2QqXcYDKP",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  },
+  {
+    "ID": 11,
+    "Cate": 3,
+    "Name": "Raggea set 4",
+    "sounds": [
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1kgL97epDdfi-AQkEtt-gGAhHlPUPE92R",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=15if9LxKPCAKZ6vlktJwh-xd84M9gPxni",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Beat",
+        "link": "https://drive.google.com/uc?export=download&id=1Ju64-Q-_6QD6kc27LtlLC4op9DFiuiF7",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Shaker",
+        "link": "https://drive.google.com/uc?export=download&id=1x8CBjLGG4LGODV0SMrZgmvdQLL2NrGFT",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Trumpet",
+        "link": "https://drive.google.com/uc?export=download&id=1DmXNobHRpFoVjdmFLUqY4G2KDI6UtzpH",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Shaker",
+        "link": "https://drive.google.com/uc?export=download&id=1iVCYigX4wK7IO3iMHNNpyHIQdBhXCBS0",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice",
+        "link": "https://drive.google.com/uc?export=download&id=1iXG8LGCbl_A1b3LF3wJF6REaDj65-qGj",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1gbBijVDNjrg5By24e6T6mKSoXQMJcrHg",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Stab",
+        "link": "https://drive.google.com/uc?export=download&id=1L5NzfVZyS_Gs1d9wzP1zu6gurZb_Z_9U",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Fx",
+        "link": "https://drive.google.com/uc?export=download&id=18I10tvYekiXjBssKMicXu43lofIi5dZF",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Piano",
+        "link": "https://drive.google.com/uc?export=download&id=1kqsrgfGZs48zcDW8EA6k3SdG_nQhzzGK",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=15EUu997Ll_iyw0Wf23TMl-xr3BiwvqT4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1_cyGEBQ6Cv7Ck3IxbNR8lMDlWOuULSVd",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1m8whOh-nkDPnM6XUd73s3xYmM6LiEAFN",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1SFDETvL6x0z7_Cwss6ZOyzrvwqCuFdOB",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Guitar",
+        "link": "https://drive.google.com/uc?export=download&id=14IX-tT8UGm5LABQcHNer7Iyv8r4TYRiN",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1GY3dnZ7V5rKgKkngDRh3S9jNMfA6Xt88",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Arcodion",
+        "link": "https://drive.google.com/uc?export=download&id=1pOr8qUcqeGgMlE4XyltwMxEppFF8tBNx",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Bass",
+        "link": "https://drive.google.com/uc?export=download&id=1NErysasxyJAHjo39e6yBXEC679s4jC2B",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percusion",
+        "link": "https://drive.google.com/uc?export=download&id=1RTnVjC0I4Gwx4RALZUrcvkzxmW65keeL",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Percusion",
+        "link": "https://drive.google.com/uc?export=download&id=1aVYOOwLCiLNtjuYcbVpZb-qgL9nXB_M4",
+        "loop": "TRUE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice fx",
+        "link": "https://drive.google.com/uc?export=download&id=1NViqNhz1N117FpP2jL60nCxLdBrXyg_w",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Voice fx",
+        "link": "https://drive.google.com/uc?export=download&id=1fI58xZgiXRTMce9-jB7_zr3SMicnKS5-",
+        "loop": "FALSE",
+        "delay": "0"
+      },
+      {
+        "name": "Chord",
+        "link": "https://drive.google.com/uc?export=download&id=1f9W8pXRVmZg5LCXqxezB_RoQyoDJ7udK",
+        "loop": "TRUE",
+        "delay": "0"
+      }
+    ]
+  }
 ]
