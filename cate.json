@@ -1,11 +1,31 @@
 [
   {
     "CateID":1,
-    "Name" : "hip hop"
+    "Name" : "Hiphop"
   },
   {
     "CateID":2,
     "Name" : "EDM"
+
+  },
+  {
+    "CateID":3,
+    "Name" : "House"
+
+  },
+  {
+    "CateID":4,
+    "Name" : "Trap"
+
+  },
+  {
+    "CateID":5,
+    "Name" : "Dubstep"
+
+  },
+  {
+    "CateID":6,
+    "Name" : "Techno"
 
   }
 ]
