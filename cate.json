@@ -27,5 +27,10 @@
     "CateID":6,
     "Name" : "Techno"
 
+  },
+  {
+    "CateID":7,
+    "Name" : "Electronic"
+
   }
 ]
