@@ -1,8 +1,8 @@
 [
   {
     "ID": 1,
-    "Cate": 1,
-    "Name": "Hip hop set 1",
+    "Cate": 3,
+    "Name": "House set 1",
     "sounds": [
       {
         "name": "Beat",
@@ -152,8 +152,8 @@
   },
   {
     "ID": 2,
-    "Cate": 1,
-    "Name": "House set 3",
+    "Cate": 3,
+    "Name": "House set 2",
     "sounds": [
       {
         "name": "Drum",
@@ -303,8 +303,8 @@
   },
   {
     "ID": 3,
-    "Cate": 1,
-    "Name": "House set 4",
+    "Cate": 3,
+    "Name": "House set 3",
     "sounds": [
       {
         "name": "Wobble",
@@ -454,7 +454,7 @@
   },
   {
     "ID": 4,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hip Hop set 1",
     "sounds": [
       {
@@ -605,7 +605,7 @@
   },
   {
     "ID": 5,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hip Hop set 2",
     "sounds": [
       {
@@ -756,7 +756,7 @@
   },
   {
     "ID": 6,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hip Hop set 3",
     "sounds": [
       {
@@ -907,7 +907,7 @@
   },
   {
     "ID": 7,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hip Hop set 4",
     "sounds": [
       {
@@ -1059,7 +1059,7 @@
   {
     "ID": 8,
     "Cate": 3,
-    "Name": "Raggea set 1",
+    "Name": "House set 4",
     "sounds": [
       {
         "name": "Beat",
@@ -1210,7 +1210,7 @@
   {
     "ID": 9,
     "Cate": 3,
-    "Name": "Raggea set 2",
+    "Name": "House set 5",
     "sounds": [
       {
         "name": "Brass",
@@ -1361,7 +1361,7 @@
   {
     "ID": 10,
     "Cate": 3,
-    "Name": "Raggea set 3",
+    "Name": "House set 6",
     "sounds": [
       {
         "name": "Beat",
@@ -1512,7 +1512,7 @@
   {
     "ID": 11,
     "Cate": 3,
-    "Name": "Raggea set 4",
+    "Name": "House set 7",
     "sounds": [
       {
         "name": "Beat",
@@ -1661,158 +1661,8 @@
     ]
   },
   {
-    "name": "DRUMS",
-    "link": "https://drive.google.com/uc?export=download&id=1qiz1P8TFgQnb9m-YB0IOhQPAD3RU2hgP",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "DRUMS",
-    "link": "https://drive.google.com/uc?export=download&id=1Z1vdEYTDOnz4kqjHJJqSds0_nzzKNRig",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "HIHATS",
-    "link": "https://drive.google.com/uc?export=download&id=1ZAQ_jhEKHDm53nTVVF38jeEisuy7EOad",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "DRUMFILL",
-    "link": "https://drive.google.com/uc?export=download&id=1RqaG59HzKL335Kp8AoaN4UBv2a2YE_MA",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "BASS",
-    "link": "https://drive.google.com/uc?export=download&id=1SOdhN0YRmkI5NFynb6fBkuJx7DYIM8t8",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "BASS",
-    "link": "https://drive.google.com/uc?export=download&id=1CKQQLqNimbHtYVwTUv32UA1uZGpLTax6",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "BASS",
-    "link": "https://drive.google.com/uc?export=download&id=14ggFb3LKI7r1PXXxE-mrU0iLtWigFJhx",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "BASS",
-    "link": "https://drive.google.com/uc?export=download&id=1AkSW0XL2IHw1eLq1vfP9KRpks6AMfvhM",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "NOISEFX",
-    "link": "https://drive.google.com/uc?export=download&id=1GZML2T4wlo_xFXRhgct_Q31yrDPHOOuB",
-    "loop": "FALSE",
-    "delay": "0"
-  },
-  {
-    "name": "SWEEP",
-    "link": "https://drive.google.com/uc?export=download&id=1FlIwI8NYdr4_qgSYlGlV7_x3roW6rZ7V",
-    "loop": "FALSE",
-    "delay": "0"
-  },
-  {
-    "name": "VOICEFX",
-    "link": "https://drive.google.com/uc?export=download&id=13WaNkC3CO4gyh0kQu2fF2IDBo_LWO6ZH",
-    "loop": "FALSE",
-    "delay": "0"
-  },
-  {
-    "name": "VOICEFX",
-    "link": "https://drive.google.com/uc?export=download&id=1GTAmmf5rdtz7tmlriw0eUp7PV5hBX_Kv",
-    "loop": "FALSE",
-    "delay": "0"
-  },
-  {
-    "name": "LEAD",
-    "link": "https://drive.google.com/uc?export=download&id=1eUtFWhtbzZaqY7bBIGhgSRVBlPEXcY1t",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "LEAD",
-    "link": "https://drive.google.com/uc?export=download&id=1oFV7nlVKu7bTNWYLsX8V8RZXpy18kqZx",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "LEAD",
-    "link": "https://drive.google.com/uc?export=download&id=1WGm_BCxY0xcHI1bhnuxJ5-BSZjU0c6UN",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "LEAD",
-    "link": "https://drive.google.com/uc?export=download&id=16Pd86eermRY1JNH8muibpq9_5SefL_jE",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "CHORDS",
-    "link": "https://drive.google.com/uc?export=download&id=1EtNCHOniUE6hLqegxsOoBTKXjimMB0PL",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "CHORDS",
-    "link": "https://drive.google.com/uc?export=download&id=1DGMYT04nBMZL6WuWTcaPfIGWirUl0NcO",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "CHORDS",
-    "link": "https://drive.google.com/uc?export=download&id=1d5kL12mTT9_L_GiPQf1ALhzvwLveUFKs",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "CHORDS",
-    "link": "https://drive.google.com/uc?export=download&id=1lxPf2gwGHYKOwE6m_JgHbW2117Yu9McQ",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "ARP",
-    "link": "https://drive.google.com/uc?export=download&id=1DrPAWZBNrAyGA5BcPp20rNmQ46cd2bbz",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "ARP",
-    "link": "https://drive.google.com/uc?export=download&id=14xvb9ItAg_Nvf93YcZWwT3pS5JR2vRpP",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "ARP",
-    "link": "https://drive.google.com/uc?export=download&id=1VMb3NBRxylxvCJPUy4Ch0rfmoNVDw16K",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "ARP",
-    "link": "https://drive.google.com/uc?export=download&id=11fQgy2iJhJX5M9NDvdWGR2ZHiEPMBT7N",
-    "loop": "TRUE",
-    "delay": "0"
-  },
-  {
-    "name": "-----",
-    "link": "-----",
-    "loop": "-----",
-    "delay": "-----"
-  },
-  {
     "ID": 12,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 5",
     "sounds": [
       {
@@ -1963,7 +1813,7 @@
   },
   {
     "ID": 13,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 6",
     "sounds": [
       {
@@ -2114,7 +1964,7 @@
   },
   {
     "ID": 14,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 7",
     "sounds": [
       {
@@ -2265,7 +2115,7 @@
   },
   {
     "ID": 15,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 8",
     "sounds": [
       {
@@ -2416,7 +2266,7 @@
   },
   {
     "ID": 16,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 9",
     "sounds": [
       {
@@ -2567,7 +2417,7 @@
   },
   {
     "ID": 17,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 10",
     "sounds": [
       {
@@ -2718,7 +2568,7 @@
   },
   {
     "ID": 18,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 11",
     "sounds": [
       {
@@ -2869,7 +2719,7 @@
   },
   {
     "ID": 19,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 12",
     "sounds": [
       {
@@ -3020,7 +2870,7 @@
   },
   {
     "ID": 20,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 13",
     "sounds": [
       {
@@ -3171,7 +3021,7 @@
   },
   {
     "ID": 21,
-    "Cate": 2,
+    "Cate": 1,
     "Name": "Hiphop set 14",
     "sounds": [
       {
@@ -3322,7 +3172,7 @@
   },
   {
     "ID": 22,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 1",
     "sounds": [
       {
@@ -3473,7 +3323,7 @@
   },
   {
     "ID": 23,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 2",
     "sounds": [
       {
@@ -3624,7 +3474,7 @@
   },
   {
     "ID": 24,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 3",
     "sounds": [
       {
@@ -3775,7 +3625,7 @@
   },
   {
     "ID": 25,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 4",
     "sounds": [
       {
@@ -3926,7 +3776,7 @@
   },
   {
     "ID": 26,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 5",
     "sounds": [
       {
@@ -4077,7 +3927,7 @@
   },
   {
     "ID": 27,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 6",
     "sounds": [
       {
@@ -4228,7 +4078,7 @@
   },
   {
     "ID": 28,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 7",
     "sounds": [
       {
@@ -4379,7 +4229,7 @@
   },
   {
     "ID": 29,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 8",
     "sounds": [
       {
@@ -4530,7 +4380,7 @@
   },
   {
     "ID": 30,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 9",
     "sounds": [
       {
@@ -4681,7 +4531,7 @@
   },
   {
     "ID": 31,
-    "Cate": 2,
+    "Cate": 4,
     "Name": "Trap set 10",
     "sounds": [
       {
@@ -6342,7 +6192,7 @@
   },
   {
     "ID": 42,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 1",
     "sounds": [
       {
@@ -6493,7 +6343,7 @@
   },
   {
     "ID": 43,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 2",
     "sounds": [
       {
@@ -6643,8 +6493,8 @@
     ]
   },
   {
+    "Cate": 6,
     "ID": 44,
-    "Cate": 2,
     "Name": "Techno set 3",
     "sounds": [
       {
@@ -6795,7 +6645,7 @@
   },
   {
     "ID": 45,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 4",
     "sounds": [
       {
@@ -6946,7 +6796,7 @@
   },
   {
     "ID": 46,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 5",
     "sounds": [
       {
@@ -7097,7 +6947,7 @@
   },
   {
     "ID": 47,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 6",
     "sounds": [
       {
@@ -7248,7 +7098,7 @@
   },
   {
     "ID": 48,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 7",
     "sounds": [
       {
@@ -7399,7 +7249,7 @@
   },
   {
     "ID": 49,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 8",
     "sounds": [
       {
@@ -7550,7 +7400,7 @@
   },
   {
     "ID": 50,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 9",
     "sounds": [
       {
@@ -7701,7 +7551,7 @@
   },
   {
     "ID": 51,
-    "Cate": 2,
+    "Cate": 6,
     "Name": "Techno set 10",
     "sounds": [
       {
@@ -7852,8 +7702,8 @@
   },
   {
     "ID": 52,
-    "Cate": 2,
-    "Name": "House set 1",
+    "Cate": 3,
+    "Name": "House set 9",
     "sounds": [
       {
         "name": "BEAT",
@@ -8003,8 +7853,8 @@
   },
   {
     "ID": 53,
-    "Cate": 2,
-    "Name": "House set 2",
+    "Cate": 3,
+    "Name": "House set 10",
     "sounds": [
       {
         "name": "BEAT",
@@ -8154,8 +8004,8 @@
   },
   {
     "ID": 54,
-    "Cate": 2,
-    "Name": "House set 3",
+    "Cate": 3,
+    "Name": "House set 11",
     "sounds": [
       {
         "name": "BEAT",
@@ -8305,8 +8155,8 @@
   },
   {
     "ID": 55,
-    "Cate": 2,
-    "Name": "House set 4",
+    "Cate": 3,
+    "Name": "House set 12",
     "sounds": [
       {
         "name": "BEAT",
@@ -8456,8 +8306,8 @@
   },
   {
     "ID": 56,
-    "Cate": 2,
-    "Name": "House set 5",
+    "Cate": 3,
+    "Name": "House set 13",
     "sounds": [
       {
         "name": "BEAT",
@@ -8607,8 +8457,8 @@
   },
   {
     "ID": 57,
-    "Cate": 2,
-    "Name": "House set 6",
+    "Cate": 3,
+    "Name": "House set 14",
     "sounds": [
       {
         "name": "BEAT",
@@ -8758,8 +8608,8 @@
   },
   {
     "ID": 58,
-    "Cate": 2,
-    "Name": "House set 7",
+    "Cate": 3,
+    "Name": "House set 15",
     "sounds": [
       {
         "name": "BEAT",
@@ -8909,8 +8759,8 @@
   },
   {
     "ID": 59,
-    "Cate": 2,
-    "Name": "House set 8",
+    "Cate": 3,
+    "Name": "House set 16",
     "sounds": [
       {
         "name": "BEAT",
@@ -9060,7 +8910,7 @@
   },
   {
     "ID": 60,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 1",
     "sounds": [
       {
@@ -9211,7 +9061,7 @@
   },
   {
     "ID": 61,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 2",
     "sounds": [
       {
@@ -9362,7 +9212,7 @@
   },
   {
     "ID": 62,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 3",
     "sounds": [
       {
@@ -9513,7 +9363,7 @@
   },
   {
     "ID": 63,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 4",
     "sounds": [
       {
@@ -9664,7 +9514,7 @@
   },
   {
     "ID": 64,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 5",
     "sounds": [
       {
@@ -9815,7 +9665,7 @@
   },
   {
     "ID": 65,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 6",
     "sounds": [
       {
@@ -9966,7 +9816,7 @@
   },
   {
     "ID": 66,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 7",
     "sounds": [
       {
@@ -10117,7 +9967,7 @@
   },
   {
     "ID": 67,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 8",
     "sounds": [
       {
@@ -10268,7 +10118,7 @@
   },
   {
     "ID": 68,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 9",
     "sounds": [
       {
@@ -10419,7 +10269,7 @@
   },
   {
     "ID": 69,
-    "Cate": 2,
+    "Cate": 5,
     "Name": "Dubstep set 10",
     "sounds": [
       {
@@ -10570,7 +10420,7 @@
   },
   {
     "ID": 70,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 1",
     "sounds": [
       {
@@ -10721,7 +10571,7 @@
   },
   {
     "ID": 71,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 2",
     "sounds": [
       {
@@ -10872,7 +10722,7 @@
   },
   {
     "ID": 72,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 3",
     "sounds": [
       {
@@ -11023,7 +10873,7 @@
   },
   {
     "ID": 73,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 4",
     "sounds": [
       {
@@ -11174,7 +11024,7 @@
   },
   {
     "ID": 74,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 5",
     "sounds": [
       {
@@ -11325,7 +11175,7 @@
   },
   {
     "ID": 75,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 6",
     "sounds": [
       {
@@ -11476,7 +11326,7 @@
   },
   {
     "ID": 69,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 7",
     "sounds": [
       {
@@ -11627,7 +11477,7 @@
   },
   {
     "ID": 69,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 8",
     "sounds": [
       {
@@ -11778,7 +11628,7 @@
   },
   {
     "ID": 69,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 9",
     "sounds": [
       {
@@ -11929,7 +11779,7 @@
   },
   {
     "ID": 69,
-    "Cate": 2,
+    "Cate": 7,
     "Name": "Electronic set 10",
     "sounds": [
       {
