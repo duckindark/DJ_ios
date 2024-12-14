@@ -1,35 +1,42 @@
 [
   {
     "CateID":1,
+    "Cover": "https://i.ibb.co/ZGw3hjV/hiphop-cate.jpg",
     "Name" : "Hiphop"
   },
   {
     "CateID":2,
+    "Cover": "https://i.ibb.co/3hGPXn3/edm-cate.jpg",
     "Name" : "EDM"
 
   },
   {
     "CateID":3,
+    "Cover": "https://i.ibb.co/rcrjDnL/house-cate.jpg",
     "Name" : "House"
 
   },
   {
     "CateID":4,
+    "Cover": "https://i.ibb.co/ssKshZB/trap-cate.jpg",
     "Name" : "Trap"
 
   },
   {
     "CateID":5,
+    "Cover": "https://i.ibb.co/vkSLfBn/dubstep-cate.jpg",
     "Name" : "Dubstep"
 
   },
   {
     "CateID":6,
+    "Cover": "https://i.ibb.co/qnf4nMC/techno-cate.jpg",
     "Name" : "Techno"
 
   },
   {
     "CateID":7,
+    "Cover": "https://i.ibb.co/KwnWpvv/electronic-cate.jpg",
     "Name" : "Electronic"
 
   }
